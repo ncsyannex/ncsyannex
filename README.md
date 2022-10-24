@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ncsyannex
 - 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning web3 and solidity
+- 🌱 Continuously learning
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me ...
 
